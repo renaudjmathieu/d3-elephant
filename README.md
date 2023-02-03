@@ -1,6 +1,6 @@
-#  Drawing with D3 + React
+#  Animated SVG with D3 + React
 
-A web app drawn with D3 + React
+An animated SVG drawn with D3 + React and CSS.
 
 ![image](https://raw.githubusercontent.com/renaudjmathieu/my-web-app/main/www/src/img/d3-elephant.png)
 
